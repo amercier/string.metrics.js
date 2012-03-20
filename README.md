@@ -14,4 +14,4 @@ Available metrics
      allowable edit operations being insertion, deletion, or substitution of a
      single character. See the [Wikipedia article](1) for moer details.
 
-[1]: http://en.wikipedia.org/wiki/Levenshtein_distance
+[1]: http://en.wikipedia.org/wiki/Levenshtein_distance 
