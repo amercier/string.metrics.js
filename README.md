@@ -1,12 +1,13 @@
-string.metrics.js - String distance calculations
-=================================================
+string.metrics.js - Distance between two Strings
+================================================
 
 
-A JavaScript library to compute various metrics between two Strings.
+A JavaScript library which provides various String metric functions.
 
 
-Available metrics:
+Available metrics
+-----------------
 
-   - **[Leveinshtein distance][1]**: [string.levenshtein.js][src/string.levenshtein.js] ([minified version][bin/string.levenshtein.min.js])
+   - **[Leveinshtein distance][1]**: [string.levenshtein-distance.js][src/string.levenshtein-distance.js] ([minified version][bin/string.levenshtein-distance.min.js])
 
 [1]: http://en.wikipedia.org/wiki/Levenshtein_distance
